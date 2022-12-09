@@ -1,0 +1,23 @@
+ 7627  cd Desktop
+ 7628  git clone git@github.com:Billie-LS/FinTech_proj2_personal_repo-.git
+ 7629  code .
+ 7630  git pull
+ 7631  git add .
+ 7632  git add *
+ 7633  git commit -m 'initial rebuild'
+ 7634  jupyter lab
+ 7635  git pull
+ 7636  git add .
+ 7637  git commit -m 'billie directory'
+ 7638  git push
+ 7639  code .
+ 7640  conda activate machine_slearn
+ 7641  jupyter lab
+ 7642  code .
+ 7643  git status
+ 7644  git add .
+ 7645  git add *
+ 7646  git commit -m 'reboot'
+ 7647  git push
+ 7648  jupyter lab
+ 7649  history 7460 > terminal_history.txt
